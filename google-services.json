@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564478059978",
+    "project_id": "otpauthapp-3cac2",
+    "storage_bucket": "otpauthapp-3cac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564478059978:android:a1a2a22d4b5e4cb9c49b33",
+        "android_client_info": {
+          "package_name": "com.kuwguap.AuthOTP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF0sxeUhycFyIxjhk8Xvrhl9qOMd6AFGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
